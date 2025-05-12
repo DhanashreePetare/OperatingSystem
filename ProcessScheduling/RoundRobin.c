@@ -40,8 +40,6 @@ void roundRobin(struct process p[],int np,int quantum){
 }
 
 void drawGanttChart(struct process p[],int np,int quantum){
-
-
 }
 
 int main(){
